@@ -5,7 +5,7 @@
 自分の手を選ぶと、コンピュータが選んだ手と、勝敗が文字で表示される
 
 ## ③アプリのデプロイURL
-
+https://takeo-yamaguchi-15.github.io/kaidai02_junken/
 
 ## ④アプリのログイン用IDまたはPassword（ある場合）
 なし
